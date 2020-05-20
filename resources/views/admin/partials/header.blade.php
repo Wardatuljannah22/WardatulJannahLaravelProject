@@ -1,5 +1,5 @@
- <!-- Header -->
-          <header class="main-header " id="header">
+<!-- Header -->
+<header class="main-header " id="header">
             <nav class="navbar navbar-static-top navbar-expand-lg">
               <!-- Sidebar toggle button -->
               <button id="sidebar-toggler" class="sidebar-toggle">
@@ -62,21 +62,18 @@
                       </li>
                     </ul>
                   </li>
-                  <li class="right-sidebar-in right-sidebar-2-menu">
-                    <i class="mdi mdi-settings mdi-spin"></i>
-                  </li>
                   <!-- User Account -->
                   <li class="dropdown user-menu">
                     <button href="#" class="dropdown-toggle nav-link" data-toggle="dropdown">
-                      <img src="assets/img/user/user.png" class="user-image" alt="User Image" />
-                      <span class="d-none d-lg-inline-block">Abdus Salam</span>
+                      <img src="assets/img/user/wardah.png" class="user-image" alt="User Image" />
+                      <span class="d-none d-lg-inline-block">Wardatul Jannah</span>
                     </button>
                     <ul class="dropdown-menu dropdown-menu-right">
                       <!-- User image -->
                       <li class="dropdown-header">
-                        <img src="assets/img/user/user.png" class="img-circle" alt="User Image" />
+                        <img src="assets/img/user/wardah.png" class="img-circle" alt="User Image" />
                         <div class="d-inline-block">
-                          Abdus Salam <small class="pt-1">iamabdus@gmail.com</small>
+                         Wardatul Jannah<small class="pt-1">wardatuljannah525@gmail.com</small>
                         </div>
                       </li>
 
@@ -93,8 +90,8 @@
                       <li>
                         <a href="#"> <i class="mdi mdi-diamond-stone"></i> Projects </a>
                       </li>
-                      <li class="right-sidebar-in">
-                        <a href="javascript:0"> <i class="mdi mdi-settings"></i> Setting </a>
+                      <li>
+                        <a href="#"> <i class="mdi mdi-settings"></i> Account Setting </a>
                       </li>
 
                       <li class="dropdown-footer">
